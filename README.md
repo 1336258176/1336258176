@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ly Bin</h1>
-<h3 align="center">An undergraduate student from Harbin Engineering University, China.</h3>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29F7AD&center=true&vCenter=true&repeat=false&random=false&width=820&height=80&lines=An+undergraduate+student+from+Harbin+Engineering+University%2C+China." alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1336258176&label=Profile%20views&color=0e75b6&style=plastic" alt="1336258176" /> </p>
 
