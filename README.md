@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **OpenCV、DL**
 
-- 📫 How to reach me **lybin1336258176@gmail.com**
+- 📫 How to reach me **lybin1336258176@outlook.com**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1336258176&show_icons=true&theme=radical&locale=en" alt="1336258176" /></p>
 
