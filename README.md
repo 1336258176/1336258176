@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1336258176" alt="1336258176" /></a> </p>
 
-- 🌱 I’m currently learning **OpenCV、DL**
+- 🌱 I’m currently learning **C++、OpenCV、DL**
 
 - 📫 How to reach me **lybin1336258176@outlook.com**
 
