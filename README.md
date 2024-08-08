@@ -21,7 +21,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=1336258176&count_private=true&show_icons=true&theme=ambient_gradient" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=1336258176&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=1336258176&layout=compact&langs_count=8&card_width=300" />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
