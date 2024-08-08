@@ -24,7 +24,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=1336258176&layout=compact&langs_count=8&card_width=200" />
 </a>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
 
 ![profile-3d](./profile-3d-contrib/profile-season-animate.svg)
